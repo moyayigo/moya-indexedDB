@@ -7,7 +7,7 @@ A simple and useful indexedDB class.
 #### Install
 
 ```
-npm i moya-indexedDB
+npm i @moyayigo/moya-indexeddb
 ```
 
 #### Usage
@@ -34,3 +34,7 @@ mydb.add("objstore",{'index':1,'name':'Niek'});//write in object
 mydb.read("objstore",1);//read object
 ```
 
+#### Keywords
+```
+indexedDB
+```
