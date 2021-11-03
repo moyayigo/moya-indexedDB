@@ -19,7 +19,7 @@ mydb.indexedDBstart();
 //OR VUE Project
 
 /* eslint-disable no-unused-vars */
-import moyaindexedDB from "@moyayigo/moya-indexeddb"
+import moyaindexedDB from "@moyayigo/moya-indexeddb";
 const mydb = new moyaindexedDB('moyadb','app');
 mydb.indexedDBstart();
 ```
